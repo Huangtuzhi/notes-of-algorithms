@@ -1,2 +1,2 @@
 # notes-of-algorithms
-Open Course of Algorithms of Princeton University. [Algorithms](https://class.coursera.org/algs4partI-010)
+Open Course of [Algorithms](https://class.coursera.org/algs4partI-010) of Princeton University.
